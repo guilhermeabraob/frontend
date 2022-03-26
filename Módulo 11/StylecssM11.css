@@ -1,0 +1,42 @@
+html {
+    font-size: 20px;
+    color: black;
+    font-family: 'Montserrat', sans-serif; 
+}
+
+body {
+
+}
+
+.main-container {
+    background-color: rgb(241, 241, 241);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 25px;
+    color: black;
+}
+
+header {
+
+}
+
+section {
+
+}
+
+section nav {
+
+}
+
+section article {
+
+}
+
+footer {
+
+}
+
