@@ -3,38 +3,50 @@ html {
     color: black;
     font-family: 'Montserrat', sans-serif; 
     background-color: rgb(241, 241, 241);
+    overflow: auto;
 }
 
 body {
-
+    overflow: auto;
 }
 
 .main-container {
     background-color: rgb(241, 241, 241);
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 30px;
+}
+
+p {
+    margin-bottom: 10px;
+    line-height: 1.4;
+    text-align: justify;
 }
 
 h1 {
     font-size: 2.2rem;
     color: black;
+    padding: 20px;
+    margin-bottom: 10px;
 }
 
 h2 {
     font-size: 1.8rem;
+    padding: 20px;
+    margin-bottom: 10px;
 }
 
 h3 {
     font-size: 1.6rem;
     color: black;
+    padding: 20px;
+    margin-bottom: 10px;
 }
 
 header {
     background-color: white;
     padding: 20px;
     font-size: 2.8rem;
-
 }
 
 section {
@@ -42,22 +54,18 @@ section {
     float: left;
     padding: 20px;
     width: 100%;
-   
-
 }
 
 section nav {
     display: block;
     float: left;
     width: 20%;
-
 }
 
 section article {
     display: block;
     float: left;
     width: 80%;
-
 }
 
 footer {
@@ -67,8 +75,5 @@ footer {
     background-color: dimgray;
     color: white;
     padding: 20px;
-
-
-
 }
 
