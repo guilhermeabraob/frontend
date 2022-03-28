@@ -2,6 +2,7 @@ html {
     font-size: 20px;
     color: black;
     font-family: 'Montserrat', sans-serif; 
+    background-color: rgb(241, 241, 241);
 }
 
 body {
@@ -16,27 +17,58 @@ body {
 }
 
 h1 {
-    font-size: 25px;
+    font-size: 2.2rem;
+    color: black;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+h3 {
+    font-size: 1.6rem;
     color: black;
 }
 
 header {
+    background-color: white;
+    padding: 20px;
+    font-size: 2.8rem;
 
 }
 
 section {
+    display: block;
+    float: left;
+    padding: 20px;
+    width: 100%;
+   
 
 }
 
 section nav {
+    display: block;
+    float: left;
+    width: 20%;
 
 }
 
 section article {
+    display: block;
+    float: left;
+    width: 80%;
 
 }
 
 footer {
+    display: block;
+    float: left;
+    width: 100%;
+    background-color: dimgray;
+    color: white;
+    padding: 20px;
+
+
 
 }
 
