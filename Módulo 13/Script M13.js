@@ -37,6 +37,6 @@ true + true = 2 (Number)
 a) true
 b) true
 c) false
-d) 
+d) cinza
 e) 
 f) pretobrancocinza = 16 caracteres
