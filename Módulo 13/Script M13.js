@@ -1,6 +1,6 @@
-Exercício Módulo 13
+// Exercício Módulo 13
 
-1)
+// Exercício 1
 
 10 + 15 = 25 (Number)
 "10" + 2 = "102" (String)
@@ -33,10 +33,81 @@ true + true = 2 (Number)
 (10+10)*2 = 40 (Number)
 10 + 10 * 2 = 30 (Number)
 
-2)
+/*
+Exercício 2
+*/
+
 a) true
 b) true
 c) false
 d) cinza
-e) 
+e) 36
 f) pretobrancocinza = 16 caracteres
+
+// Primeira opção de resolução da letra E do exercício 2.
+
+> var valor = 30000;
+undefined
+> var prestacao = 750;
+undefined
+> var entrada = 3000;
+undefined
+> var quantidade = (valor - entrada) / prestacao
+undefined
+> quantidade
+36
+
+// Segunda Opção de resolução da letra E do exercício 2.
+
+> var valor = 30000;
+undefined
+> 
+> var prestacao = 750;
+undefined
+> 
+> var entrada = 3000;
+undefined
+> 
+> var numero = 1;
+undefined
+> for(var valorPago = entrada; valorPago < valor; valorPago += prestacao) {  
+...     console.log("prestacao"+numero);
+...     numero++;
+... }
+prestacao1
+prestacao2
+prestacao3
+prestacao4
+prestacao5
+prestacao6
+prestacao7
+prestacao8
+prestacao9
+prestacao10
+prestacao11
+prestacao12
+prestacao13
+prestacao14
+prestacao15
+prestacao16
+prestacao17
+prestacao18
+prestacao19
+prestacao20
+prestacao21
+prestacao22
+prestacao23
+prestacao24
+prestacao25
+prestacao26
+prestacao27
+prestacao28
+prestacao29
+prestacao30
+prestacao31
+prestacao32
+prestacao33
+prestacao34
+prestacao35
+prestacao36
+36
